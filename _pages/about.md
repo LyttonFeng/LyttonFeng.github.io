@@ -17,42 +17,43 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently an Associate Research Director at SenseTime Research, specializing in foundational large language models (LLMs), which powers [SenseChat](https://chat.sensetime.com/). As a core member of the LLM team, I am responsible for LLM post-training. Prior to this, I was the research leader of Remote Sensing Business Unit at SenseTime. My work focused on developing the foundational model for remote sensing interpretation, which was deployed as the base model for [SenseEarth](https://senseearth-cloud.com/). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+I received my PhD degree from the Department of Electronic Engineering at City University of Hong Kong. My supervisor was [Dr. Lai-Man PO](https://www.ee.cityu.edu.hk/~lmpo/). My previous research focuses on two primary areas. The first involves learning from large-scale data, covering topics such as out-of-distribution generalization, semi-supervised learning, and webly supervised learning.  The second focuses on models for general vision tasks, including large vision-language models, semantic segmentation, and object detection. My recent research direction is **LLM Reasoning and Agents**. I have published more than 20 papers in top AI conferences and journals, with a total of over 2,700 citations on [Google Scholar](https://scholar.google.com/citations?user=PnNAAasAAAAJ&hl=en).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🏆 [Our LLM ranked 1st in General Foundation Capability in the 2025 China LLM Evaluation by Frost & Sullivan](https://mp.weixin.qq.com/s/Nsb3uTWVy9rn1badMlhrdw).  
+- 2025.01:  🎉🎉 1 paper accepted to ICLR 2025.
+- *2025.01*: &nbsp;🎉🎉 [Our LLM achieved a joint 1st place (tied with DeepSeek V3) in the 2024 Full-Year SuperClue Evaluation](https://mp.weixin.qq.com/s/XYX85wbYFyKN9wQLDhfRrA).  
+- *2024.11*: &nbsp;🎉🎉 [Our LLM achieved 2nd place in the Oct. 2024 SuperClue Evaluation](https://mp.weixin.qq.com/s/YvAnoCyalUU28ujDSgEqkg).  
+- *2024.09*: &nbsp;🎉🎉 [Our LLM achieved a joint 3rd place in the Aug. 2024 SuperClue Evaluation](https://mp.weixin.qq.com/s/uxU_rWvP9HWOMzg7Zg6oKA).
+- 2024.08:  🎉🎉 2 papers accepted to ECCV 2024.
+- *2023.09*: &nbsp;🎉🎉 1 paper accepted to NeurIPS 2023.
+- *2023.03*: &nbsp;🎉🎉 2 papers accepted to CVPR 2023.
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06*: &nbsp;🏆 [Our team achieved 2nd place in the CVPR 2019 WebVision Large-Scale Webly-Supervised Learning Challenge](https://data.vision.ee.ethz.ch/cvl/webvision/2019/challenge_results.html).
+- *2019.12*: &nbsp;🏆 2019 SenseTime Outstanding Individual Award.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **B.Eng.**, 9/2004 - 6/2008, Electronic Science and Technology, Harbin Institute of Technology
+- **M.Eng.**, 9/2008 - 1/2011, The Third Institute of China Aerospace
+- **Ph.D.**, 1/2012 - 7/2016, Electronic Engineering, City University of Hong Kong
+
+# 💻 Working Experience
+- **Associate Research Director**, 4/2022 - Present, SenseTime Research, SenseTime
+- **Senior Researcher**, 3/2016 - 3/2022, SenseTime Research, SenseTime
+- **Assistant Engineer**, 1/2011 - 12/2011, The Third Institute of China Aerospace, China Aerospace
+
+# 🏫 University Collaboration
+- *2022-2023*: **External Mentor**, The Chinese University of Hong Kong (Shenzhen)  
+- *2023-2024*: **Principal Investigator**, SenseTime-Tsinghua Industry-Academia-Research Integration Program  
+  - *Project*: Generative Cartography Based on Remote Sensing Pre-trained Models
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.01*: SenseTime AI Facilitates New Breakthroughs in Remote Sensing Applications in the Intelligent Era [Read more](https://mp.weixin.qq.com/s/r85UkOUN-IvkZ9vSrl87AA)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2015.11 - 2016.01*, Tencent Video, Shenzhen, China.

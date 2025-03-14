@@ -1,0 +1,19 @@
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/fenglitong/.rubies/ruby-3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250309-83160-wzxuze sitelibdir\=./.gem.20250309-83160-wzxuze clean
+
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250309-83160-wzxuze sitelibdir\=./.gem.20250309-83160-wzxuze
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250309-83160-wzxuze sitelibdir\=./.gem.20250309-83160-wzxuze install
+/opt/homebrew/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20250309-83160-wzxuze
+
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250309-83160-wzxuze sitelibdir\=./.gem.20250309-83160-wzxuze clean

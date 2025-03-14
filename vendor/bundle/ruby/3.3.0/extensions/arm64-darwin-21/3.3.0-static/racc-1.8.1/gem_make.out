@@ -1,0 +1,18 @@
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/fenglitong/.rubies/ruby-3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250309-83160-jzi2vu sitelibdir\=./.gem.20250309-83160-jzi2vu clean
+
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250309-83160-jzi2vu sitelibdir\=./.gem.20250309-83160-jzi2vu
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250309-83160-jzi2vu sitelibdir\=./.gem.20250309-83160-jzi2vu install
+/opt/homebrew/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20250309-83160-jzi2vu/racc
+
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250309-83160-jzi2vu sitelibdir\=./.gem.20250309-83160-jzi2vu clean

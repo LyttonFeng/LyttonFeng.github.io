@@ -1,0 +1,19 @@
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/Users/fenglitong/.rubies/ruby-3.3.5/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20250309-83160-4ejanr sitelibdir\=./.gem.20250309-83160-4ejanr clean
+
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20250309-83160-4ejanr sitelibdir\=./.gem.20250309-83160-4ejanr
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20250309-83160-4ejanr sitelibdir\=./.gem.20250309-83160-4ejanr install
+/opt/homebrew/bin/ginstall -c -m 0755 unf_ext.bundle ./.gem.20250309-83160-4ejanr
+
+current directory: /Users/fenglitong/work/个人/LyttonFeng.github.io/vendor/bundle/ruby/3.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20250309-83160-4ejanr sitelibdir\=./.gem.20250309-83160-4ejanr clean
