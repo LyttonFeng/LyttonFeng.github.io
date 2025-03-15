@@ -55,5 +55,5 @@ I received my PhD degree from the Department of Electronic Engineering at City U
 # 💬 Invited Talks
 - *2022.01*: SenseTime AI Facilitates New Breakthroughs in Remote Sensing Applications in the Intelligent Era [Read more](https://mp.weixin.qq.com/s/r85UkOUN-IvkZ9vSrl87AA)
 
-# 💻 Internships
+# 🧑‍💻 Internships
 - *2015.11 - 2016.01*, Tencent Video, Shenzhen, China.
