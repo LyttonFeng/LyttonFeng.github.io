@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Litong Feng<br>(馮俐銅, Ph.D.)"
   avatar           : "images/WechatIMG68937.jpeg"
-  bio              : "Researcher specializing in LLMs & VLLMs."
+  bio              : "Researcher specializing in LLMs &amp; VLLMs."
   location         : "Hong Kong, China"
   employer         : "SenseTime Research"
   pubmed           : 
