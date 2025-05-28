@@ -37,9 +37,9 @@ I received my PhD degree from the Department of Electronic Engineering at City U
 - *2019.12*: &nbsp;🏆 2019 SenseTime Outstanding Individual Award.
 
 # 📖 Educations
-- **B.Eng.**, 9/2004 - 6/2008, Electronic Science and Technology, Harbin Institute of Technology
-- **M.Eng.**, 9/2008 - 1/2011, The Third Institute of China Aerospace
 - **Ph.D.**, 1/2012 - 7/2016, Electronic Engineering, City University of Hong Kong
+- **M.Eng.**, 9/2008 - 1/2011, The Third Institute of China Aerospace
+- **B.Eng.**, 9/2004 - 6/2008, Electronic Science and Technology, Harbin Institute of Technology
 
 # 💻 Working Experience
 - **Associate Research Director**, 4/2022 - Present, SenseTime Research, SenseTime
