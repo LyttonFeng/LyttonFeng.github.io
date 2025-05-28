@@ -32,10 +32,6 @@ I received my PhD degree from the Department of Electronic Engineering at City U
 - *2023.09*: &nbsp;🎉🎉 1 paper accepted to NeurIPS 2023.
 - *2023.03*: &nbsp;🎉🎉 2 papers accepted to CVPR 2023.
 
-# 🎖 Honors and Awards
-- *2019.06*: &nbsp;🏆 [Our team achieved 2nd place in the CVPR 2019 WebVision Large-Scale Webly-Supervised Learning Challenge](https://data.vision.ee.ethz.ch/cvl/webvision/2019/challenge_results.html).
-- *2019.12*: &nbsp;🏆 2019 SenseTime Outstanding Individual Award.
-
 # 📖 Educations
 - **Ph.D.**, 1/2012 - 7/2016, Electronic Engineering, City University of Hong Kong
 - **M.Eng.**, 9/2008 - 1/2011, The Third Institute of China Aerospace
@@ -85,6 +81,11 @@ I received my PhD degree from the Department of Electronic Engineering at City U
 - *2022-2023*: **External Mentor**, The Chinese University of Hong Kong (Shenzhen)  
 - *2023-2024*: **Principal Investigator**, SenseTime-Tsinghua Industry-Academia-Research Integration Program  
   - *Project*: Generative Cartography Based on Remote Sensing Pre-trained Models
+
+# 🎖 Honors and Awards
+- *2019.06*: &nbsp;🏆 [Our team achieved 2nd place in the CVPR 2019 WebVision Large-Scale Webly-Supervised Learning Challenge](https://data.vision.ee.ethz.ch/cvl/webvision/2019/challenge_results.html).
+- *2019.12*: &nbsp;🏆 2019 SenseTime Outstanding Individual Award.
+
 
 # 💬 Invited Talks
 - *2022.01*: SenseTime AI Facilitates New Breakthroughs in Remote Sensing Applications in the Intelligent Era [Read more](https://mp.weixin.qq.com/s/r85UkOUN-IvkZ9vSrl87AA)
