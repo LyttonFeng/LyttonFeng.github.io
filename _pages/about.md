@@ -73,8 +73,8 @@ I received my PhD degree from the Department of Electronic Engineering at City U
 
 ### Face Liveness Detection
 
-*   **Litong Feng**, Lai-Man Po, Yuming Li, Xuyuan Xu, Fang Yuan. "Integration of Image Quality and Motion Cues for Face Anti-spoofing: A Neural Network Approach." *Journal of Visual Communication and Image Representation*, 2016.
-*   **Litong Feng**, Lai-Man Po, Xuyuan Xu, Yuming Li. "Motion-resistant Remote Imaging Photoplethysmography Based on the Optical Properties of Skin." *IEEE Transactions on Circuits and Systems for Video Technology*, 2014.
+*   **Litong Feng**, Lai-Man Po, Yuming Li, Xuyuan Xu, Fang Yuan. "Integration of Image Quality and Motion Cues for Face Anti-spoofing: A Neural Network Approach." *Journal of Visual Communication and Image Representation*, 2016. [URL](https://www.youtube.com/watch?v=151USnKDKZY)
+*   **Litong Feng**, Lai-Man Po, Xuyuan Xu, Yuming Li. "Motion-resistant Remote Imaging Photoplethysmography Based on the Optical Properties of Skin." *IEEE Transactions on Circuits and Systems for Video Technology*, 2014. [URL](https://www.youtube.com/watch?v=8X2nJcVsmYQ)
 *   **Litong Feng**, Lai-Man Po, Xuyuan Xu, Yuming Li, Fang Yuan. "Dynamic ROI Based on K-means for Remote Photoplethysmography." *ICASSP*, 2015.
 
 
